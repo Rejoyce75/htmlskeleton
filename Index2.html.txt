@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stutern</title>
+</head>
+<body>
+   
+   <h1>Welcome</h1>
+    
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque tempora vel cumque at fugit corrupti quidem dolorum tenetur alias suscipit quae corporis veritatis, veniam, voluptatibus nemo cupiditate deserunt temporibus iure?</p>
+
+    <h2>Are We ready?</h2>
+    <mark style="t">This is a marked text</mark>
+    <p style="color:white; font-size: 16px; background-color:black">Lorem Ipsum is simply dummy text of the printing and <em>typesetting industry. </em>Lorem Ipsum has been the industry's <b>dummy text ever </b>the 1500s, when an unknown printer took a galley of <strong>type and scrambled </strong>strongit to make a type specimen book. It has survived not only five <small>centuries</small>, but also the leap into electronic <del>typestting</del>remaining essentially unchanged. It was 
+    <i>popularised</i> in the 1960s with the release of Letraset <ins>sheets containing</ins> Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+</body>
+</html>
